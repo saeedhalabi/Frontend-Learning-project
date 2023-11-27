@@ -1,0 +1,21 @@
+/* Setting up global styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2980b9;
+  color: #fff;
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+
+.image-responsive {
+  width: 400px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Header Styling */
