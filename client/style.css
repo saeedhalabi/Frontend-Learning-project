@@ -21,8 +21,8 @@ body {
 /* Header Styling */
 header nav {
   display: flex;
-  flex-direction: column;
   align-items: center;
+  justify-content: center;
   text-align: center;
 }
 
@@ -30,10 +30,5 @@ header nav {
   list-style: none;
   padding: 0;
   display: flex;
-  justify-content: center;
   gap: 20px;
-}
-
-.flex-container li {
-  margin: 0;
 }
