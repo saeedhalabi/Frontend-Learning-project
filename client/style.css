@@ -1,50 +1,47 @@
-/* Setting up global styling */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/* Global styling and resets */
 
 body {
   background-color: #2980b9;
   color: #fff;
   margin: 0 auto;
   text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
 }
 
 .image-responsive {
-  width: 400px;
   max-width: 100%;
   height: auto;
 }
 
-/* Navigation Container Styling */
+/* Navigation styling */
+
 header {
-  font-family: "Poppins", sans-serif;
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 50px;
-  margin-top: 70px;
-  padding-left: 150px;
+  justify-content: space-evenly;
+  gap: 2rem;
+  margin-top: 4rem;
+  padding-left: 2rem;
 }
 
 header button {
   border: none;
-  padding: 14px 12px;
+  padding: 1rem 1.2rem;
   border-radius: 40px;
   background-color: #e8b71a;
   color: #fff;
   font-weight: 600;
-  margin-left: 40px;
+  margin-left: 2rem;
   text-transform: uppercase;
 }
 
 nav .flex-container {
   display: flex;
   align-items: center;
-  justify-content: space-around;
-  gap: 50px;
+  justify-content: center;
+  margin-left: 2rem;
+  padding: 0 2rem;
+  gap: 3rem;
 }
 
 nav li a {
@@ -55,4 +52,16 @@ nav li a {
 
 nav li {
   list-style: none;
+}
+
+/* Media Query for Larger Screens */
+@media (min-width: 768px) {
+  header {
+    padding-left: 8rem;
+  }
+
+  nav .flex-container {
+    margin-left: 9rem;
+    padding: 0 4rem;
+  }
 }
