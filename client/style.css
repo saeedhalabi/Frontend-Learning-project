@@ -18,18 +18,41 @@ body {
   height: auto;
 }
 
-/* Header Styling */
-header nav {
+/* Navigation Container Styling */
+header {
+  font-family: "Poppins", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
-  margin-top: 55px;
+  gap: 50px;
+  margin-top: 70px;
+  padding-left: 150px;
 }
 
-.flex-container {
-  list-style: none;
-  padding: 0;
+header button {
+  border: none;
+  padding: 14px 12px;
+  border-radius: 40px;
+  background-color: #e8b71a;
+  color: #fff;
+  font-weight: 600;
+  margin-left: 40px;
+  text-transform: uppercase;
+}
+
+nav .flex-container {
   display: flex;
-  gap: 25px;
+  align-items: center;
+  justify-content: space-around;
+  gap: 50px;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+}
+
+nav li {
+  list-style: none;
 }
