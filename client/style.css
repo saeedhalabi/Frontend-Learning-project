@@ -97,6 +97,35 @@ nav li {
   max-height: 500px;
 }
 
+/* About Section */
+.main-body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 3rem 0 2rem 0;
+  padding: 3rem;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.main-body .welcome {
+  margin-bottom: 6rem;
+}
+
+.main-body h2 {
+  margin-bottom: 3rem;
+}
+
+.main-body h2 span {
+  color: #e8b71a;
+}
+
+.main-body p {
+  line-height: 5;
+}
+
 /* Media Query for Larger Screens */
 @media (min-width: 768px) {
   header {
