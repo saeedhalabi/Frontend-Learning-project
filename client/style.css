@@ -43,6 +43,7 @@ header button {
   font-weight: 600;
   margin-left: 2rem;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 nav .flex-container {
@@ -124,6 +125,110 @@ nav li {
 
 .main-body p {
   line-height: 5;
+}
+
+/* Journey Section */
+.journey-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.journey-section #journey {
+  margin-left: 4rem;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.journey-section img {
+  border-radius: 100px;
+}
+
+.journey-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+  text-align: center;
+  padding: 3rem 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.journey-container ul li {
+  list-style: none;
+  padding: 2rem;
+  line-height: 4;
+}
+
+/* Accent color */
+.accent {
+  color: #e8b71a;
+}
+
+/* Community */
+.community-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.community-section h1 {
+  margin-right: 4rem;
+  text-align: center;
+  font-size: 70px;
+}
+
+.community-section img {
+  border-radius: 100px;
+}
+
+.community-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+  text-align: center;
+  padding: 3rem 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.community-container ul li {
+  list-style: none;
+  padding: 2rem;
+  line-height: 4;
+}
+
+/* Future Section */
+.future-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.future-section #future {
+  margin-top: 2rem;
+}
+
+.future-section .future-list {
+  margin-top: 4rem;
+}
+
+.future-section .future-list li {
+  padding: 2rem;
+  list-style: none;
+}
+
+.future-list p {
+  margin-top: 2rem;
 }
 
 /* Media Query for Larger Screens */
