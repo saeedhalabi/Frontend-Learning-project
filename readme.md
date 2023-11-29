@@ -19,7 +19,6 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
 - ✅ **Community Showcase:** Highlight squad moments and build real friendships.
 - ✅ **User Engagement:** Share your victories and challenges for a thriving community.
 - ✅ **Sneak Peek:** Preview future quests and challenges.
-- ✅ **Responsive Design:** Seamlessly experience across devices.
 - ✅ **Google Fonts Integration:** Enhance aesthetics with Montserrat, Roboto Condensed, and Poppins.
 - ✅ **Smooth Scrolling:** Polished and enjoyable user experience.
 - ✅ **Call-to-Action Button:** Engage with a "Start Your Journey" button.
