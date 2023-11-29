@@ -15,7 +15,7 @@ body {
   color: #fff;
   margin: 0 auto;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .image-responsive {
@@ -32,6 +32,7 @@ header {
   gap: 2rem;
   margin-top: 4rem;
   padding-left: 2rem;
+  font-family: "Poppins", sans-serif;
 }
 
 header button {
@@ -137,7 +138,6 @@ nav li {
 .journey-section #journey {
   margin-left: 4rem;
   text-align: center;
-  font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 70px;
 }
@@ -153,7 +153,6 @@ nav li {
   margin-top: 3rem;
   text-align: center;
   padding: 3rem 0;
-  font-family: "Montserrat", sans-serif;
   font-weight: bold;
 }
 
@@ -173,7 +172,6 @@ nav li {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: "Montserrat", sans-serif;
   font-weight: bold;
 }
 
@@ -194,7 +192,6 @@ nav li {
   margin-top: 3rem;
   text-align: center;
   padding: 3rem 0;
-  font-family: "Montserrat", sans-serif;
   font-weight: bold;
 }
 
@@ -210,7 +207,6 @@ nav li {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  font-family: "Montserrat", sans-serif;
   font-weight: bold;
 }
 
