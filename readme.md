@@ -33,7 +33,7 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
 ## Usage
 
 # Demo:
-You can find the demo video <a href="https://youtu.be/8TesaRn1uJo?si=rNCop_lkW9NHkj9v">Here</a>
+You can find the demo video <a href="https://youtu.be/_aj4C3FqsgI?si=pv6NSOmaL4P7dvUr" target=_blank>Here</a>
 
 # User Guide:
 Effortlessly explore each section with the intuitive navigation links located at the top of the page.
