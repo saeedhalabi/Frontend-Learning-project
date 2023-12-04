@@ -36,7 +36,6 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
 - **HTML5** 
 - **CSS3**
 - **Google Fonts**
-- **Smooth Scrolling**
 
 # Usage
 
