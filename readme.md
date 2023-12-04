@@ -85,7 +85,7 @@ Throughout the development of the Fortnite TimeWarp project, I gained valuable i
 - Flexbox
   - Customizing layouts to make them look good.
   - Organizing stuff on the page by using containers.
-- Making the tex look nice by enhancing typography.
+- Making the text look nice by enhancing typography.
 - Using git to commit and share my work.
 
  Despite these challenges, each hurdle provided an opportunity for growth, skill development, and a more robust understanding of web development principles.
