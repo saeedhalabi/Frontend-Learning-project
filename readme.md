@@ -1,8 +1,6 @@
 
 # Fortnite TimeWarp: A Comprehensive Gaming Timeline
 
-## Title: "Blog Gaming Website"
-
 ![Project Showcase](github-readme-pic.JPG)
 
 
@@ -11,17 +9,17 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
 
 ## Features
 
-- ✅ **User-Friendly Navigation:** Easily explore different sections of the timeline.
-- ✅ **Engaging Hero Banner:** Capture attention with a visually appealing hero section.
-- ✅ **Personalized Journey:** Share your Fortnite story from early experiences to advanced strategies.
-- ✅ **Visual Storytelling:** Use visuals and storytelling for an immersive experience.
-- ✅ **Interactive Journey Overview:** Explore key milestones and defining moments.
-- ✅ **Community Showcase:** Highlight squad moments and build real friendships.
-- ✅ **User Engagement:** Share your victories and challenges for a thriving community.
-- ✅ **Sneak Peek:** Preview future quests and challenges.
-- ✅ **Google Fonts Integration:** Enhance aesthetics with Montserrat, Roboto Condensed, and Poppins.
-- ✅ **Smooth Scrolling:** Polished and enjoyable user experience.
-- ✅ **Call-to-Action Button:** Engage with a "Start Your Journey" button.
+✅ **User-Friendly Navigation:** Easily explore different sections of the timeline.
+✅ **Engaging Hero Banner:** Capture attention with a visually appealing hero section.
+✅ **Personalized Journey:** Share your Fortnite story from early experiences to advanced strategies.
+✅ **Visual Storytelling:** Use visuals and storytelling for an immersive experience.
+✅ **Interactive Journey Overview:** Explore key milestones and defining moments.
+✅ **Community Showcase:** Highlight squad moments and build real friendships.
+✅ **User Engagement:** Share your victories and challenges for a thriving community.
+✅ **Sneak Peek:** Preview future quests and challenges.
+✅ **Google Fonts Integration:** Enhance aesthetics with Montserrat, Roboto Condensed, and Poppins.
+✅ **Smooth Scrolling:** Polished and enjoyable user experience.
+✅ **Call-to-Action Button:** Engage with a "Start Your Journey" button.
 
 ## Technologies Used
 
@@ -30,9 +28,9 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
 - **Google Fonts**
 - **Smooth Scrolling**
 
-## Usage
+# Usage
 
-# Demo:
+## Demo:
 You can find the demo video <a href="https://youtu.be/_aj4C3FqsgI?si=pv6NSOmaL4P7dvUr" target=_blank>Here</a>
 
 # User Guide:
@@ -78,28 +76,20 @@ Throughout the development of the Fortnite TimeWarp project, I gained valuable i
 - HTML Class naming conventions
 
 ### Technologies Used
-The project leveraged the following technologies:
+The project leveraged the following technology:
 
-- **HTML5:** Used for structuring the content of the web pages.
-- **CSS3:** Applied for styling and layout to enhance the visual appeal.
-- **Google Fonts:** Integrated Montserrat, Roboto Condensed, and Poppins for a polished typographic style.
-- **Smooth Scrolling:** Implemented to enhance navigation and user interaction.
+- Visual Studio Code (VSCode)
+  - developed by Microsoft, is a popular and versatile source code editor known for its lightweight design, extensive features, and robust support for various programming languages.
 
 ## Challenges Faced
 
-During the Fortnite TimeWarp project, I had some challenges:
-
-1. **Flexbox Layout:** Making things look good and customizing layouts was tricky.
-
-2. **Enhancing Typography:** Figuring out what fonts to use and making text look nice was a bit challenging.
-
-3. **Git Workflow:** Sharing work and committing my work was a challenge at first.
-
-4. **Containers:** Organizing stuff on the page and making it look neat was a bit tough. I had to learn how to use containers properly.
+- Flexbox
+  - Customizing layouts to make them look good
+  - Organizing stuff on the page by using containers
+- Making the text look nice by enhancing typography
+- Using git to share and commit my work
 
 Despite these challenges, each hurdle provided an opportunity for growth, skill development, and a more robust understanding of web development principles.
-
-# Important: Not responsive
 
 ## Project Conclusion
 
@@ -112,3 +102,11 @@ Despite these challenges, each hurdle provided an opportunity for growth, skill 
 🌟 As the Fortnite TimeWarp continues, keep an eye out for new quests, challenges, and the ever-expanding gaming community. The adventure doesn't end here—it's just the beginning.
 
 🎮 Game on, and see you in the next level!
+
+# Disclaimer
+
+<div style="border: 2px solid red; padding: 10px;">
+
+**Note:** This project is not designed to be responsive. It may not display optimally on various devices and screen sizes. Please use a desktop or laptop for the best experience.
+
+</div>
