@@ -10,15 +10,25 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
 ## Features
 
 ✅ **User-Friendly Navigation:** Easily explore different sections of the timeline.
+
 ✅ **Engaging Hero Banner:** Capture attention with a visually appealing hero section.
+
 ✅ **Personalized Journey:** Share your Fortnite story from early experiences to advanced strategies.
+
 ✅ **Visual Storytelling:** Use visuals and storytelling for an immersive experience.
+
 ✅ **Interactive Journey Overview:** Explore key milestones and defining moments.
+
 ✅ **Community Showcase:** Highlight squad moments and build real friendships.
+
 ✅ **User Engagement:** Share your victories and challenges for a thriving community.
+
 ✅ **Sneak Peek:** Preview future quests and challenges.
+
 ✅ **Google Fonts Integration:** Enhance aesthetics with Montserrat, Roboto Condensed, and Poppins.
+
 ✅ **Smooth Scrolling:** Polished and enjoyable user experience.
+
 ✅ **Call-to-Action Button:** Engage with a "Start Your Journey" button.
 
 ## Technologies Used
