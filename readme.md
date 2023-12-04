@@ -37,6 +37,31 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
 - **CSS3**
 - **Google Fonts**
 
+# Application of choice
+
+ ## VS-Code
+ The whole application was designed using Visual Studio Code
+
+ developed by Microsoft, it is a popular and versatile source code editor known for its lightweight design, extensive features, and robust support for various programming languages.
+
+ ## Useful Extensions
+
+1. **ESLint**
+   - **Extension:** [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+   - **Description:** Integrates ESLint into VSCode, providing real-time linting for JavaScript and TypeScript code.
+
+2. **Prettier**
+   - **Extension:** [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+   - **Description:** Formats your code according to Prettier's rules, ensuring consistent and clean code styling.
+
+3. **Live Server**
+   - **Extension:** [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+   - **Description:** Launches a development server and provides live reloading for your web projects.
+
+4. **GitLens**
+   - **Extension:** [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+   - **Description:** Enhances the Git capabilities within VSCode, providing detailed insights and annotations.
+
 # Usage
 
 ## Demo
@@ -89,33 +114,7 @@ Throughout the development of the Fortnite TimeWarp project, I gained valuable i
 - Using git to commit and share my work.
 
  Despite these challenges, each hurdle provided an opportunity for growth, skill development, and a more robust understanding of web development principles.
-
- # Application of choice
-
- ## VS-Code
- The whole application was designed using Visual Studio Code
-
- developed by Microsoft, it is a popular and versatile source code editor known for its lightweight design, extensive features, and robust support for various programming languages.
-
- ## Useful Extensions
-
-1. **ESLint**
-   - **Extension:** [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-   - **Description:** Integrates ESLint into VSCode, providing real-time linting for JavaScript and TypeScript code.
-
-2. **Prettier**
-   - **Extension:** [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-   - **Description:** Formats your code according to Prettier's rules, ensuring consistent and clean code styling.
-
-3. **Live Server**
-   - **Extension:** [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-   - **Description:** Launches a development server and provides live reloading for your web projects.
-
-4. **GitLens**
-   - **Extension:** [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-   - **Description:** Enhances the Git capabilities within VSCode, providing detailed insights and annotations.
-
-  
+ 
 # Disclaimer
 
 <div style="border: 2px solid red; padding: 10px;" class="disclaimer">
