@@ -64,12 +64,11 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
 
 # Links
 - Demo-Video
-  <a href="https://youtu.be/_aj4C3FqsgI?si=pv6NSOmaL4P7dvUr" target="_blank"></a>
+  <a href="https://youtu.be/_aj4C3FqsgI?si=pv6NSOmaL4P7dvUr" target="_blank">Watch the Demo Video</a>
 - Web Browser
-  <a href="https://www.google.com/chrome/"></a>
+  <a href="https://www.google.com/chrome/">Download Google Chrome</a>
 - The design created in Figma
-  <a href="
-  https://www.figma.com/file/XTIleSMn2OMkGh9xuMqbsb/Fortnite-Gaming-Timeline?type=design&node-id=0%3A1&mode=design&t=0ID5rD3RGKTEf5Ee-1"></a>
+  <a href="https://www.figma.com/file/XTIleSMn2OMkGh9xuMqbsb/Fortnite-Gaming-Timeline?type=design&node-id=0%3A1&mode=design&t=0ID5rD3RGKTEf5Ee-1">View Figma Design</a>
 
 # Setup
 
