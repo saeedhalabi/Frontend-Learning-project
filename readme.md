@@ -62,20 +62,19 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
    - **Extension:** [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
    - **Description:** Enhances the Git capabilities within VSCode, providing detailed insights and annotations.
 
-# Usage
+# Links
+- Demo-Video
+  <a href="https://youtu.be/_aj4C3FqsgI?si=pv6NSOmaL4P7dvUr" target="_blank"></a>
+- Web Browser
+  <a href="https://www.google.com/chrome/"></a>
+- The design created in Figma
+  <a href="
+  https://www.figma.com/file/XTIleSMn2OMkGh9xuMqbsb/Fortnite-Gaming-Timeline?type=design&node-id=0%3A1&mode=design&t=0ID5rD3RGKTEf5Ee-1"></a>
 
-## Demo
-You can find the demo video <a href="https://youtu.be/_aj4C3FqsgI?si=pv6NSOmaL4P7dvUr" target=_blank>Here</a>
-
-## User Guide
-Effortlessly explore each section with the intuitive navigation links located at the top of the page.
-
-## Development
+# Setup
 
 ### Prerequisites
-Before you begin, ensure you have the following installed:
-
-- [Web Browser](https://www.google.com/chrome/): for viewing and testing the project.
+The guide expects you to use the "Web Browser" listed under the "Links" section.
 
 ### Cloning the Repository
 1. Clone the repository to your local machine:
@@ -90,11 +89,6 @@ Before you begin, ensure you have the following installed:
 2. Locate the <code>index.html</code> file and open it with your web browser.
 3. Explore the Fortnite Gaming Timeline locally on your machine.
 
-## Figma Design
-
-Explore the visual design and layout of the Fortnite TimeWarp project on Figma. Click the link below to view the Figma design:
-
-[Figma Design](https://www.figma.com/file/XTIleSMn2OMkGh9xuMqbsb/Fortnite-Gaming-Timeline?type=design&node-id=0%3A1&mode=design&t=0ID5rD3RGKTEf5Ee-1)
 
 # Learnings
 Throughout the development of the Fortnite TimeWarp project, I gained valuable insights and skills in:
