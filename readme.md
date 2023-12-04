@@ -115,7 +115,7 @@ Despite these challenges, each hurdle provided an opportunity for growth, skill 
 
 # Disclaimer
 
-<div style="border: 2px solid red; padding: 10px;">
+<div style="border: 2px solid red; padding: 10px;" class="disclaimer">
 
 **Note:** This project is not designed to be responsive. It may not display optimally on various devices and screen sizes. Please use a desktop or laptop for the best experience.
 
