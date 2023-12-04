@@ -97,19 +97,24 @@ Throughout the development of the Fortnite TimeWarp project, I gained valuable i
 
  developed by Microsoft, it is a popular and versatile source code editor known for its lightweight design, extensive features, and robust support for various programming languages.
 
- ## Useful extensions
- 1- ESLint
-   - Extension: <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ESlint</a>
-   - Integrates ESLint into VSCode, providing real-time linting for JavaScript and TypeScript code.
- 2- Prettier:
-   - Extension: <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier</a>
-   - Formats your code according to Prettier's rules, ensuring consistent and clean code styling.
- 3- Live Server:
-   - Extension: <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>
-   - Launches a development server and provides live reloading for your web projects.
- 4- GitLens:
-   - Extension: <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">Gitlens</a>
-   - Enhances the Git capabilities within VSCode, providing detailed insights and annotations.
+ ## Useful Extensions
+
+1. **ESLint**
+   - **Extension:** [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+   - **Description:** Integrates ESLint into VSCode, providing real-time linting for JavaScript and TypeScript code.
+
+2. **Prettier**
+   - **Extension:** [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+   - **Description:** Formats your code according to Prettier's rules, ensuring consistent and clean code styling.
+
+3. **Live Server**
+   - **Extension:** [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+   - **Description:** Launches a development server and provides live reloading for your web projects.
+
+4. **GitLens**
+   - **Extension:** [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+   - **Description:** Enhances the Git capabilities within VSCode, providing detailed insights and annotations.
+
   
 # Disclaimer
 
