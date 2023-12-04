@@ -4,7 +4,7 @@
 ![Project Showcase](github-readme-pic.JPG)
 
 
-## Description:
+## Description
 Welcome to my Gaming Journal! It's a simple and friendly website where I share my gaming journey, fun moments with friends, and connect with other gamers. Easy to use, full of pictures, and a great way to join the gaming community. Let's explore and game on together!
 
 ## Features
@@ -40,10 +40,10 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
 
 # Usage
 
-## Demo:
+## Demo
 You can find the demo video <a href="https://youtu.be/_aj4C3FqsgI?si=pv6NSOmaL4P7dvUr" target=_blank>Here</a>
 
-# User Guide:
+## User Guide
 Effortlessly explore each section with the intuitive navigation links located at the top of the page.
 
 ## Development
@@ -73,7 +73,7 @@ Explore the visual design and layout of the Fortnite TimeWarp project on Figma. 
 [Figma Design](https://www.figma.com/file/XTIleSMn2OMkGh9xuMqbsb/Fortnite-Gaming-Timeline?type=design&node-id=0%3A1&mode=design&t=0ID5rD3RGKTEf5Ee-1)
 
 
-# Learnings, Technologies, and Challenges
+# Learnings, Applications used, and Challenges
 
 ### What I Learned
 Throughout the development of the Fortnite TimeWarp project, I gained valuable insights and skills in:
@@ -85,8 +85,8 @@ Throughout the development of the Fortnite TimeWarp project, I gained valuable i
 - Learned how to structure elements using Flexbox
 - HTML Class naming conventions
 
-### Technologies Used
-The project leveraged the following technology:
+### Application Used
+The project leveraged the following application:
 
 - Visual Studio Code (VSCode)
   - developed by Microsoft, is a popular and versatile source code editor known for its lightweight design, extensive features, and robust support for various programming languages.
@@ -101,22 +101,10 @@ The project leveraged the following technology:
 
 Despite these challenges, each hurdle provided an opportunity for growth, skill development, and a more robust understanding of web development principles.
 
-## Project Conclusion
-
-🚀 Thank you for joining me on this Fortnite TimeWarp journey! Building this gaming timeline was a blast, and I hope you enjoyed exploring the world of Fortnite with me.
-
-🎮 Whether you're a seasoned gamer or just getting started, remember that every victory and challenge contributes to your unique gaming story. The Fortnite TimeWarp project is not just about pixels on a screen; it's a celebration of the friendships formed, strategies mastered, and the joy that gaming brings.
-
-🙌 A special thanks to the gaming community for sharing your stories and making this project even more vibrant. Your engagement and enthusiasm are what make gaming truly special.
-
-🌟 As the Fortnite TimeWarp continues, keep an eye out for new quests, challenges, and the ever-expanding gaming community. The adventure doesn't end here—it's just the beginning.
-
-🎮 Game on, and see you in the next level!
-
 # Disclaimer
 
 <div style="border: 2px solid red; padding: 10px;" class="disclaimer">
 
-**Note:** This project is not designed to be responsive. It may not display optimally on various devices and screen sizes. Please use a desktop or laptop for the best experience.
+This project is not designed to be responsive. It may not display optimally on various devices and screen sizes. Please use a desktop or laptop for the best experience.
 
 </div>
