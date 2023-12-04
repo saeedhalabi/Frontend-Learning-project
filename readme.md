@@ -71,35 +71,46 @@ Explore the visual design and layout of the Fortnite TimeWarp project on Figma. 
 
 [Figma Design](https://www.figma.com/file/XTIleSMn2OMkGh9xuMqbsb/Fortnite-Gaming-Timeline?type=design&node-id=0%3A1&mode=design&t=0ID5rD3RGKTEf5Ee-1)
 
-
-# Learnings, Applications used, and Challenges
-
-### What I Learned
+# Learnings
 Throughout the development of the Fortnite TimeWarp project, I gained valuable insights and skills in:
 
-- HTML5 for structuring the content of the web pages.
+- HTML5 for structuring the content of the web page.
 - CSS3 for styling and layout, enhancing the visual appeal of the website.
 - Integrating Google Fonts to improve the typography and overall design.
 - Implementing smooth scrolling for a polished user experience.
-- Learned how to structure elements using Flexbox
-- HTML Class naming conventions
+- Learned how to structure elements using Flexbox.
+- HTML class naming conventions.
 
-### Application Used
-The project leveraged the following application:
-
-- Visual Studio Code (VSCode)
-  - developed by Microsoft, is a popular and versatile source code editor known for its lightweight design, extensive features, and robust support for various programming languages.
-
-## Challenges Faced
-
+# Challenges Faced
 - Flexbox
-  - Customizing layouts to make them look good
-  - Organizing stuff on the page by using containers
-- Making the text look nice by enhancing typography
-- Using git to share and commit my work
+  - Customizing layouts to make them look good.
+  - Organizing stuff on the page by using containers.
+- Making the tex look nice by enhancing typography.
+- Using git to commit and share my work.
 
-Despite these challenges, each hurdle provided an opportunity for growth, skill development, and a more robust understanding of web development principles.
+ Despite these challenges, each hurdle provided an opportunity for growth, skill development, and a more robust understanding of web development principles.
 
+ # Application of choice
+
+ ## VS-Code
+ The whole application was designed using Visual Studio Code
+
+ developed by Microsoft, it is a popular and versatile source code editor known for its lightweight design, extensive features, and robust support for various programming languages.
+
+ ## Useful extensions
+ 1- ESLint
+   - Extension: <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ESlint</a>
+   - Integrates ESLint into VSCode, providing real-time linting for JavaScript and TypeScript code.
+ 2- Prettier:
+   - Extension: <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier</a>
+   - Formats your code according to Prettier's rules, ensuring consistent and clean code styling.
+ 3- Live Server:
+   - Extension: <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>
+   - Launches a development server and provides live reloading for your web projects.
+ 4- GitLens:
+   - Extension: <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">Gitlens</a>
+   - Enhances the Git capabilities within VSCode, providing detailed insights and annotations.
+  
 # Disclaimer
 
 <div style="border: 2px solid red; padding: 10px;" class="disclaimer">
