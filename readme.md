@@ -63,8 +63,6 @@ Welcome to my Gaming Journal! It's a simple and friendly website where I share m
    - **Description:** Enhances the Git capabilities within VSCode, providing detailed insights and annotations.
 
 # Links
-- Demo-Video:
-  <a href="https://youtu.be/_aj4C3FqsgI?si=pv6NSOmaL4P7dvUr" target="_blank">Watch the Demo Video</a>
 - Web Browser:
   <a href="https://www.google.com/chrome/">Download Google Chrome</a>
 - The design created in Figma:
